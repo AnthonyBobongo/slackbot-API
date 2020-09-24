@@ -1,0 +1,14 @@
+{
+  "name": "slackbot-api",
+  "version": "1.0.0",
+  "description": "Rest API for slack bot",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server --watch db.json"
+  },
+  "author": "Anthony Bobongo",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}

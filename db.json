@@ -1,0 +1,29 @@
+{
+  "tips":[
+
+    {
+     "id":"1",
+      "tip": "To bring up a handy search interface that will let you find files on your Mac, just use Command + Space"  
+    },
+
+    {
+      "id":"2",
+       "tip": "To switch between your open applications, press Command + Tab. Keep holding down the Command key and then press Tab to cycle through the open apps. Let go when the app you want is highlighted"  
+     },
+
+     {
+      "id":"3",
+       "tip": "For those with macOS Catalina and an Apple Watch, the Apple Watch can also be used as an alternative to a password so you don't need to type in passwords frequently."  
+     },
+
+     {
+      "id":"4",
+       "tip": "To bring up a handy search interface that will let you find files on your Mac, just use Command + Space"  
+     },
+     {
+      "id":"5",
+       "tip": "If you want to copy the current URL in Safari, press Command + L to highlight the URL bar and then press Command + C to copy. It's quicker than using a mouse."  
+     }
+
+]
+}
